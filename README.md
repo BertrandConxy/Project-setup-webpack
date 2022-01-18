@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books.
-> This is a book collection management web application which will help the user to add book with the Title and the Author to the books collection
-and also remove any book from the collection. In addition, he/she will be able to see the book list in the collection on the landing page.
+# Project setup with webpack.
+>This is an exercise to set up the project with webpack bundler.
 
 
 ## Built With
